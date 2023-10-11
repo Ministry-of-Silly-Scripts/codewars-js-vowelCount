@@ -1,5 +1,5 @@
-function vowelCount() {
-  return 'hello';
+function vowelCount(str) {
+  return 1;
 }
 
 module.exports = vowelCount;

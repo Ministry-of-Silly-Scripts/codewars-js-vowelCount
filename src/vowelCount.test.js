@@ -1,7 +1,7 @@
 const vowelCount = require('./vowelCount');
 
 describe('vowelCount', () => {
-  it('should return hello', () => {
-    expect(vowelCount()).toBe('hello');
+  it('should return 1 for input a', () => {
+    expect(vowelCount('a')).toBe(1);
   });
 });

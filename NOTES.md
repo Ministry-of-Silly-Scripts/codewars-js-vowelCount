@@ -40,3 +40,4 @@ Actions:
   - update package.json 
   - update code/test files 
 - domain/ rules description ✅
+- it should return 1 for input equal a ✅
