@@ -50,3 +50,4 @@ Actions:
 - it should return 4 for input equal aebicod ✅
 - it should return 5 for input equal aebicodu ✅
 - it should return 5 for input equal aebicoduf ✅
+- it should return 10 for input equal aaeeiioouu ✅
