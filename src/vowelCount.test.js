@@ -44,4 +44,8 @@ describe('vowelCount', () => {
   it('should return 10 for input aaeeiioouu', () => {
     expect(vowelCount('aaeeiioouu')).toBe(10);
   });
+
+  it('should return 10 for input bcaaeeiioouufg', () => {
+    expect(vowelCount('bcaaeeiioouufg')).toBe(10);
+  });
 });
