@@ -1,8 +1,9 @@
 function vowelCount(str) {
+  var vowels = ['a', 'e', 'i', 'o', 'u'];
   var count = 0;
 
   for (var i in str.split('')) {
-    if (str[i] === 'a' || str[i] === 'e' || str[i] === 'i' || str[i] === 'o' || str[i] == 'u') {
+    if (vowels.includes(str[i])) {
       count += 1;
     }
   }
