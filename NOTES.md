@@ -49,3 +49,4 @@ Actions:
 - it should return 4 for input equal aebico ✅
 - it should return 4 for input equal aebicod ✅
 - it should return 5 for input equal aebicodu ✅
+- it should return 5 for input equal aebicoduf ✅
