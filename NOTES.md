@@ -45,3 +45,4 @@ Actions:
 - it should return 2 for input equal ae ✅
 - it should return 2 for input equal aeb ✅
 - it should return 3 for input equal aebi ✅
+- it should return 3 for input equal aebic ✅
