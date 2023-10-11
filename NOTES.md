@@ -48,3 +48,4 @@ Actions:
 - it should return 3 for input equal aebic ✅
 - it should return 4 for input equal aebico ✅
 - it should return 4 for input equal aebicod ✅
+- it should return 5 for input equal aebicodu ✅
