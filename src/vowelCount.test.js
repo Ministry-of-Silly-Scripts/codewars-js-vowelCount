@@ -24,4 +24,8 @@ describe('vowelCount', () => {
   it('should return 3 for input aebic', () => {
     expect(vowelCount('aebic')).toBe(3);
   });
+
+  it('should return 4 for input aebico', () => {
+    expect(vowelCount('aebico')).toBe(4);
+  });
 });
