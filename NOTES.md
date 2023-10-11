@@ -41,3 +41,4 @@ Actions:
   - update code/test files 
 - domain/ rules description ✅
 - it should return 1 for input equal a ✅
+- it should return 0 for input equal b ✅

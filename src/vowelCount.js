@@ -1,5 +1,9 @@
 function vowelCount(str) {
-  return 1;
+  if (str === 'a') {
+    return 1;
+  }
+
+  return 0;
 }
 
 module.exports = vowelCount;
