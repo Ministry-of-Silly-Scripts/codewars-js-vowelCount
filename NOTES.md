@@ -47,3 +47,4 @@ Actions:
 - it should return 3 for input equal aebi ✅
 - it should return 3 for input equal aebic ✅
 - it should return 4 for input equal aebico ✅
+- it should return 4 for input equal aebicod ✅
