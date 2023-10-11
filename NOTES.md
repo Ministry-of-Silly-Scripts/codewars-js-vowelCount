@@ -10,7 +10,17 @@ The input string will only consist of lower case letters and/or spaces.
 
 ## Domain
 
+Nouns: 
+- vowels (a, e, i, o, u)
+- string
+
+Actions:
+- count
+
 ## Rules
+
+- input: string (lower case letters and/or spaces)
+- output: count the number of vowels
 
 ## Backlog
 
@@ -29,5 +39,4 @@ The input string will only consist of lower case letters and/or spaces.
   - update NOTES 
   - update package.json 
   - update code/test files 
-- domain description 
-- backlog
+- domain/ rules description ✅
