@@ -42,3 +42,4 @@ Actions:
 - domain/ rules description ✅
 - it should return 1 for input equal a ✅
 - it should return 0 for input equal b ✅
+- it should return 2 for input equal ae ✅
