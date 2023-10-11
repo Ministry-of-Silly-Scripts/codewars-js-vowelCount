@@ -16,4 +16,8 @@ describe('vowelCount', () => {
   it('should return 2 for input aeb', () => {
     expect(vowelCount('aeb')).toBe(2);
   });
+
+  it('should return 3 for input aebi', () => {
+    expect(vowelCount('aebi')).toBe(3);
+  });
 });

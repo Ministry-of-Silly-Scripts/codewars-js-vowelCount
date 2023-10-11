@@ -44,3 +44,4 @@ Actions:
 - it should return 0 for input equal b ✅
 - it should return 2 for input equal ae ✅
 - it should return 2 for input equal aeb ✅
+- it should return 3 for input equal aebi ✅
